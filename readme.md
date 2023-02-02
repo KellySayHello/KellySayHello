@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on **undergraduate research in SPML lab.**
 
+- 🔭 I’m currently doing an internship at **g0v-jothon as a frontend developer.**
+
 - 🌱 I’m currently learning **PHP and Computer Vision.**
 
 - 🤝 I’m looking for help with **Laravel based web development.**

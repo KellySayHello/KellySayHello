@@ -28,9 +28,12 @@
   </a> 
   <a href="https://learn.microsoft.com/zh-tw/dotnet/csharp/tour-of-csharp/" target="_blank" rel="noreferrer">
     <img src="https://pbs.twimg.com/profile_images/1390448160934305793/ohii8Hxq_400x400.png" alt="csharp" width="40" height="40"/> 
-  </a>
+  </a>  
   <a href="https://learn.microsoft.com/zh-tw/dotnet/" target="_blank" rel="noreferrer">
-    <img src="https://miro.medium.com/v2/resize:fit:1024/0*BPlc4UjfwCM0MraJ.png" alt="csharp" width="40" height="40"/>
+    <img src="https://miro.medium.com/v2/resize:fit:1024/0*BPlc4UjfwCM0MraJ.png" alt=".NET" width="40" height="40"/>
+  </a> 
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.metaage.com.tw/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBamdGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e86726a601c4e1a27bbdd5ccf753d22542bd79d3/kubernetes.png" alt="k8s" width="40" height="40"/>
   </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 

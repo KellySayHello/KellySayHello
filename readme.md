@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kelly (Chieh-Chi) Yang</h1>
 <h3 align="center">A hardworking student from NTUEE, Taiwan.</h3>
 
-- 🔭 I’m currently working on **undergraduate research in SPML lab.**
+- 🔭 I’m currently working on **undergraduate research in SPML lab and NEWS Lab.**
 
 - 🔭 I’m currently doing an internship at **CMoney as a backend developer.**
 
-- 🌱 I’m currently learning **c# design pattern.**
+- 🌱 I’m currently learning **federated learning.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KellySayHello](https://github.com/KellySayHello)
 

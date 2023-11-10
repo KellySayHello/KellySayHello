@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kellyworld3@gmail.com**
   
-- 👨‍💻 Learn more about me on my LinkedIn page [https://www.linkedin.com/in/%E5%80%A2%E7%B6%BA-%E6%A5%8A-b86284255/] <3
+- 👨‍💻 Learn more about me on my LinkedIn page [https://linkedin.com/Chieh-Chi-Yang](https://www.linkedin.com/in/%E5%80%A2%E7%B6%BA-%E6%A5%8A-b86284255/)
 
 - ⚡ Fun fact **I have a pet rabbit !**
 

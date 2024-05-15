@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **undergraduate research in NLP and Federated Learning.**
 
-- 🔭 I’m currently doing an internship at **CMoney as a backend developer.**
-
 - 🌱 I’m currently learning **federated learning.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KellySayHello](https://github.com/KellySayHello)
